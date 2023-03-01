@@ -46,7 +46,7 @@ const callGenerateEndpoint = async () => {
           </div>
 
           <div className="header-subtitle">
-            <h2>(Since I have been drinking a lot of vodka, please forgive and forget my tweets.)</h2>
+            <h2>Since I have been drinking a lot of vodka, please forgive and forget my tweets.</h2>
             <div className="badg">
               <Image src={RGVLogo}  className ="RGVlogo" />
           </div>
